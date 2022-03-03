@@ -1,0 +1,35 @@
+#div1{
+    width: 500px;
+    height: 50px;
+    border: 5px solid black;
+    box-shadow: 1px 1px 10px black;
+    background: white;
+    margin: 0;
+}
+#div2{
+    margin: 0;
+    display: inline-block;
+    width: 120px;
+    height: 300px;
+    border: 5px solid rgb(25, 146, 25);
+}
+#div3{
+    margin: 0px;
+    padding: 25px;
+    display: inline-block;
+    width: 320px;
+    height: 250px;
+    border: 5px solid rgb(212, 23, 23);
+}
+#div3 #div3-1{
+    margin: 0;
+    border: 5px solid rgb(11, 14, 194);
+    width: 300px;
+    height: 50px;
+}
+#div3 #div3-2{
+    margin: 0;
+    border: 5px solid rgb(185, 24, 118);
+    width: 300px;
+    height: 50px;
+}
